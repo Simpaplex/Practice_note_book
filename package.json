@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Practice_note_book
-/",
+    "build": "vite build --base=/Practice_note_book/",
     "preview": "vite preview"
   },
   "devDependencies": {
